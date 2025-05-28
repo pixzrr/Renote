@@ -5,7 +5,7 @@
     <head>
         <title>Renote</title>
         <meta name="description" content="">
-        <link rel="shortcut icon" href="<?= ROOT ?>images/tv.png">
+        <link rel="shortcut icon" href="<?= ROOT ?>images/Renote.png">
         <meta charset="utf-8">
         <meta name="author" content="Renote">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +14,7 @@
     <body>
         <header>
             <!--Logo-->
-            <a href="<?= ROOT ?>index.php"><h1>R</h1></a>
+            <a href="<?= ROOT ?>index.php"><img src="images/Renote.png" alt="Retourner à l'accueil"></a>
 
             <!--Outils-->
             <p class="toolbar">Mon espace</p>
