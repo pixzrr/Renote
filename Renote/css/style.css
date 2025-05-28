@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+}
+
+header{
+    max-width: 80%;
+    width: 50em;
+    height: 2em;
+    background-color: antiquewhite;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 0 0 1em 1em;
+}
+
+header a{
+    color: black;
+    font-size: 12px;
+}
